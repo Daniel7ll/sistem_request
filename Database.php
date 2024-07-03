@@ -4,7 +4,7 @@
         private $servername = "localhost"; 
         private $username = "root"; 
         private $password = "";
-        private $database = "kampus_danielr1tic";
+        private $database = "sistem_request";
         private $conn;
         function __construct()
         {
